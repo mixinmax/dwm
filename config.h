@@ -3,10 +3,10 @@
 /* appearance */
 static const char font[]            = "liberation mono 10";
 static const char normbordercolor[] = "#444444";
-static const char normbgcolor[]     = "#222222";
+static const char normbgcolor[]     = "#111111";
 static const char normfgcolor[]     = "#bbbbbb";
 static const char selbordercolor[]  = "#005577";
-static const char selbgcolor[]      = "#222222";
+static const char selbgcolor[]      = "#111111";
 static const char selfgcolor[]      = "#eeeeee";
 static const unsigned int borderpx  = 0;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
